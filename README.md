@@ -1,10 +1,11 @@
 # create-joji-app
 
-A CLI tool to quickly scaffold React + Vite + Tailwind CSS projects with Jolyssa's preferred setup.
+A CLI tool to quickly scaffold React + Vite + Tailwind CSS projects with Joji's preferred setup.
 
 ## Installation
 ```bash
 npm link
+// Will need to run terminal or IDE in Administrator mode.
 ```
 
 ## Usage
